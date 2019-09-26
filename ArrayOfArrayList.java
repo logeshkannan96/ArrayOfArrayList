@@ -1,5 +1,3 @@
-package test.Java;
-
 import java.util.*;
 
 public class ArrayOfArrayList 
